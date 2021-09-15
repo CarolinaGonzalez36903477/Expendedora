@@ -1,0 +1,2 @@
+C:\Users\hp\Desktop\CAI\Expendedora\LibreriaDeClases\obj\Debug\LibreriaDeClases.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\CAI\Expendedora\LibreriaDeClases\obj\Debug\LibreriaDeClases.csproj.CoreCompileInputs.cache
